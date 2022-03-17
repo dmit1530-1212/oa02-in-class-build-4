@@ -11,7 +11,7 @@ This is a mentored build, thus follow the instructor's instructions/questions du
 ![medium-checkbox](img/medium-checkbox.png)<br>
 ![large-checkbox](img/large-checkbox.png)<br>
 
-You may use the alternate, **brick-wall.svg**, version for the background (see screenshots provided with the provided files).
+You may use the alternate, **brick-wall.svg**, version for the background (see screenshots provided in the **img** folder).
 ## Submission
 You must have at least 2 commits of your build.
 
