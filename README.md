@@ -17,6 +17,4 @@ You must have at least 2 commits of your build.
 
 Zip (.zip) up the completed 'build-responsive-nav and upload to Moodle for marking. The working tree should be clean and all changes should be saved as a commit to GitHub Classroom. Be sure to use naming best practices for the zipped folder. The starting files for this build can be found here.
 
-<p style="color:red;">Labs that do not follow best naming practices, or do not validate, will receive a 0. Late submissions will not be accepted!</p>
-
-<p style="color: red;">You must be present in class in order to receive a grade for this assessment.</p>
+>>Labs that do not follow best naming practices, or do not validate, will receive a 0. Late submissions will not be accepted!<br><br>You must be present in class in order to receive a grade for this assessment.
